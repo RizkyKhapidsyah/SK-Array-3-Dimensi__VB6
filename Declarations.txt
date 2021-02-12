@@ -1,0 +1,6 @@
+'Demonstrates the use of a 3 dimensional array
+'for paging
+'Requires: a form with autodraw set to true
+'          and a combo box
+Option Explicit
+Dim Array3D(), Row As Integer, Col As Integer, Page As Integer
